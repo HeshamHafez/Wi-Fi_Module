@@ -14,8 +14,7 @@ main.d main.o: .././main.c .././ESP_Driver.h .././uart_driver.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\util\delay_basic.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\math.h \
- .././DIO.h .././DIO_Map.h .././Macro.h .././std_types.h .././lcd.h \
- .././lcd_cfg.h .././motor.h
+ .././DIO.h .././DIO_Map.h .././Macro.h .././std_types.h .././motor.h
 
 .././ESP_Driver.h:
 
@@ -58,9 +57,5 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 .././Macro.h:
 
 .././std_types.h:
-
-.././lcd.h:
-
-.././lcd_cfg.h:
 
 .././motor.h:
